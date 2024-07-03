@@ -1,13 +1,39 @@
-# My-Frontend-Mentor-Repository
-Aquí está todo los desafíos que he hecho de Frontend Mentor. 
+# My Frontend Mentor Repository
 
-<a href="https://github.com/Lara-art/QR-code-component"># QR code component</a><br>
+Aquí están todos los desafíos que he hecho de Frontend Mentor. Estos proyectos se caracterizan por tener diseño adaptado para dispositivos móviles y de escritorio.
 
+## 📂 Desafíos Completados
 
-![Desktop](https://github.com/Lara-art/QR-code-component/assets/62111495/ba689c62-176a-435e-8690-e13278592769)<br>
+1. [Desafío 1 - QR code component](enlace-al-repositorio-o-despliegue)
+2. [Desafío 2 - Blog preview card](enlace-al-repositorio-o-despliegue)
 
+## 💻 Tecnologías
 
-<a href="https://github.com/Lara-art/QR-code-component](https://github.com/Lara-art/Blog-preview-card"># Blog preview card</a><br>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+## 📸 Capturas de Pantalla
 
-![Desktop](https://github.com/Lara-art/Blog-preview-card/blob/main/screenshot/Desktop.PNG)<br>
+### Desafío 1 - QR code component
+
+<table>
+  <tr>
+    <td style="width: 75%;"><img src="https://github.com/Lara-art/QR-code-component/blob/main/QR-Screenshoot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
+    <td style="width: 25%;"><img src="https://github.com/Lara-art/QR-code-component/blob/main/QR-Screenshoot/mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
+  </tr>
+</table>
+
+### Desafío 2 - Blog preview card
+
+<table>
+  <tr>
+    <td style="width: 75%;"><img src="https://github.com/Lara-art/Blog-preview-card/blob/main/screenshot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
+    <td style="width: 25%;"><img src="https://github.com/Lara-art/Blog-preview-card/blob/main/screenshot/Mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
+  </tr>
+</table>
+
+## ✨ Mis Redes
+
+- [Github](https://github.com/Lara-art)
+- [Linkedin](https://www.linkedin.com/in/lara-mesa-cubas)
