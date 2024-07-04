@@ -4,8 +4,9 @@ Aquí están todos los desafíos que he hecho de Frontend Mentor. Estos proyecto
 
 ## 📂 Desafíos Completados
 
-1. [Desafío 1 - QR code component](enlace-al-repositorio-o-despliegue)
-2. [Desafío 2 - Blog preview card](enlace-al-repositorio-o-despliegue)
+1. [Desafío 1 - QR code component](https://github.com/Lara-art/QR-code-component)
+2. [Desafío 2 - Blog preview card](https://github.com/Lara-art/Blog-preview-card)
+3. [Desafío 3 - Social links profile](https://github.com/Lara-art/Social-links-profile)
 
 ## 💻 Tecnologías
 
@@ -30,6 +31,14 @@ Aquí están todos los desafíos que he hecho de Frontend Mentor. Estos proyecto
   <tr>
     <td style="width: 75%;"><img src="https://github.com/Lara-art/Blog-preview-card/blob/main/screenshot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
     <td style="width: 25%;"><img src="https://github.com/Lara-art/Blog-preview-card/blob/main/screenshot/Mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
+  </tr>
+</table>
+
+### Desafío 3 - Social links profile
+<table>
+  <tr>
+    <td style="width: 75%;"><img src="https://github.com/Lara-art/Social-links-profile/blob/main/screenshot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
+    <td style="width: 25%;"><img src="https://github.com/Lara-art/Social-links-profile/blob/main/screenshot/Mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
   </tr>
 </table>
 
