@@ -1,6 +1,15 @@
 # My Frontend Mentor Repository
 
-Aquí están todos los desafíos que he hecho de Frontend Mentor. Estos proyectos se caracterizan por tener diseño adaptado para dispositivos móviles y de escritorio.
+Aquí están todos los desafíos que he hecho de Frontend Mentor. Estos proyectos se caracterizan por tener un diseño adaptado para dispositivos móviles y de escritorio, y empezar desde lo sencillo de html y css, a la progresión de este junto con JS.
+Los desafíos de la página web se dividen en 5 bloques:
+<ol>
+<li>Getting started on Frontend Mentor</li>
+<li>Building responsive layouts</li>
+<li>JavaScript fundamentals</li>
+<li>Introduction to web accessibility</li>
+<li>Advanced CSS techniques</li>
+</ol>
+Con 4 desafíos por bloque, un total de <b>20 desafíos.</b> 
 
 ## 📂 Desafíos Completados
 
