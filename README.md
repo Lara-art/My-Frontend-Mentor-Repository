@@ -52,6 +52,15 @@ Con total de <b>30 desafíos.</b>
   </tr>
 </table>
 
+### Desafío 4 - Recipe page
+<table>
+  <tr>
+    <td style="width: 75%;"><img src="https://github.com/Lara-art/Recipe-page/blob/main/screenshots/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
+    <td style="width: 25%;"><img src="https://github.com/Lara-art/Recipe-page/blob/main/screenshots/mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
+  </tr>
+</table>
+
+
 ## ✨ Mis Redes
 
 - [Github](https://github.com/Lara-art)
