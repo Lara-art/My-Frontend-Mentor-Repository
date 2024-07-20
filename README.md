@@ -17,6 +17,7 @@ Con total de <b>30 desafíos.</b>
 2. [Desafío 2 - Blog preview card](https://github.com/Lara-art/Blog-preview-card)
 3. [Desafío 3 - Social links profile](https://github.com/Lara-art/Social-links-profile)
 4. [Desafío 4 - Recipe page](https://github.com/Lara-art/Recipe-page)
+5. [Desafío 5 - Product preview card component](https://github.com/Lara-art/Product-preview-card-component/tree/main)
 
 ## 💻 Tecnologías
 
