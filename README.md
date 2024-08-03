@@ -19,6 +19,7 @@ Con total de <b>30 desafíos.</b>
 4. [Desafío 4 - Recipe page](https://github.com/Lara-art/Recipe-page)
 5. [Desafío 5 - Product preview card component](https://github.com/Lara-art/Product-preview-card-component/)
 6. [Desafío 6 - Four card feature section solution](https://github.com/Lara-art/Four-Card-Feature-Section)
+7. [Desafío 7 - Testimonials grid section solution](https://github.com/Lara-art/Testimonials-grid-section)
 
 ## 💻 Tecnologías
 
@@ -75,6 +76,14 @@ Con total de <b>30 desafíos.</b>
   <tr>
     <td style="width: 75%;"><img src="https://github.com/Lara-art/Four-Card-Feature-Section/blob/main/screenshot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
     <td style="width: 25%;"><img src="https://github.com/Lara-art/Four-Card-Feature-Section/blob/main/screenshot/Mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
+  </tr>
+</table>
+
+### Desafío 7 - Testimonials grid section
+<table>
+  <tr>
+    <td style="width: 75%;"><img src="https://github.com/Lara-art/Testimonials-grid-section/blob/main/screenshot/Desktop.png" alt="Vista de Escritorio" style="width: 100%;"/></td>
+    <td style="width: 25%;"><img src="https://github.com/Lara-art/Testimonials-grid-section/blob/main/screenshot/Mobile.png"  alt="Vista Móvil" style="width: 100%;"/></td>
   </tr>
 </table>
 
