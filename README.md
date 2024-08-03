@@ -29,7 +29,7 @@ Con total de <b>30 desafíos.</b>
 
 ## 📸 Capturas de Pantalla
 
-### Desafío 1 - QR code component
+### [↗](https://github.com/Lara-art/QR-code-component) Desafío 1 - QR code component
 
 <table>
   <tr>
@@ -38,7 +38,7 @@ Con total de <b>30 desafíos.</b>
   </tr>
 </table>
 
-### Desafío 2 - Blog preview card
+### [↗](https://github.com/Lara-art/Blog-preview-card) Desafío 2 - Blog preview card
 
 <table>
   <tr>
@@ -47,7 +47,7 @@ Con total de <b>30 desafíos.</b>
   </tr>
 </table>
 
-### Desafío 3 - Social links profile
+### [↗](https://github.com/Lara-art/Social-links-profile) Desafío 3 - Social links profile
 <table>
   <tr>
     <td style="width: 75%;"><img src="https://github.com/Lara-art/Social-links-profile/blob/main/screenshot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
@@ -55,7 +55,7 @@ Con total de <b>30 desafíos.</b>
   </tr>
 </table>
 
-### Desafío 4 - Recipe page
+### [↗](https://github.com/Lara-art/Recipe-page) Desafío 4 - Recipe page
 <table>
   <tr>
     <td style="width: 75%;"><img src="https://github.com/Lara-art/Recipe-page/blob/main/screenshots/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
@@ -63,7 +63,7 @@ Con total de <b>30 desafíos.</b>
   </tr>
 </table>
 
-### Desafío 5 - Product preview card component
+### [↗](https://github.com/Lara-art/Product-preview-card-component/) Desafío 5 - Product preview card component
 <table>
   <tr>
     <td style="width: 75%;"><img src="https://github.com/Lara-art/Product-preview-card-component/blob/main/screenshot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
@@ -71,7 +71,7 @@ Con total de <b>30 desafíos.</b>
   </tr>
 </table>
 
-### Desafío 6 - Four card feature section
+### [↗](https://github.com/Lara-art/Four-Card-Feature-Section) Desafío 6 - Four card feature section
 <table>
   <tr>
     <td style="width: 75%;"><img src="https://github.com/Lara-art/Four-Card-Feature-Section/blob/main/screenshot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
@@ -79,7 +79,7 @@ Con total de <b>30 desafíos.</b>
   </tr>
 </table>
 
-### Desafío 7 - Testimonials grid section
+### [↗](https://github.com/Lara-art/Testimonials-grid-section) Desafío 7 - Testimonials grid section
 <table>
   <tr>
     <td style="width: 75%;"><img src="https://github.com/Lara-art/Testimonials-grid-section/blob/main/screenshot/Desktop.png" alt="Vista de Escritorio" style="width: 100%;"/></td>
