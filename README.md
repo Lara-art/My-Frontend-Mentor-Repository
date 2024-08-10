@@ -9,7 +9,7 @@ Los desafíos de la página web se dividen en 5 bloques:
 <li>Introduction to web accessibility</li>
 <li>Advanced CSS techniques</li>
 </ol>
-Con total de <b>30 desafíos.</b> 
+Con total de <b>22 desafíos.</b> 
 
 ## 📂 Desafíos Completados
 
