@@ -21,6 +21,7 @@ Con total de <b>22 desafíos.</b>
 6. [Desafío 6 - Four card feature section solution](https://github.com/Lara-art/Four-Card-Feature-Section)
 7. [Desafío 7 - Testimonials grid section solution](https://github.com/Lara-art/Testimonials-grid-section)
 8. [Desafío 8 - Article preview component solution](https://github.com/Lara-art/Article-preview-component)
+9. [Desafío 9 - Newsletter solution](https://github.com/Lara-art/Newsletter)
 
 ## 💻 Tecnologías
 
@@ -97,6 +98,18 @@ Con total de <b>22 desafíos.</b>
   <tr>
     <td style="width: 75%;"><img src="https://github.com/Lara-art/Article-preview-component/blob/main/screenshot/Desktop-active.png"  alt="Vista de Escritorio activo" style="width: 100%;"/></td>
     <td style="width: 25%;"><img src="https://github.com/Lara-art/Article-preview-component/blob/main/screenshot/Mobile-active.png"  alt="Vista Móvil activo" style="width: 100%;"/></td>
+  </tr>
+</table>
+
+### [↗](https://github.com/Lara-art/Newsletter) Desafío 9 - Newsletter solution
+<table>
+  <tr>
+    <td style="width: 75%;"><img src="https://github.com/Lara-art/Newsletter/blob/main/screenshot/Desktop.png" alt="Vista de Escritorio" style="width: 100%;"/></td>
+    <td style="width: 25%;"><img src="https://github.com/Lara-art/Newsletter/blob/main/screenshot/Mobile.png"  alt="Vista Móvil" style="width: 100%;"/></td>
+  </tr>
+  <tr>
+    <td style="width: 75%;"><img src="https://github.com/Lara-art/Newsletter/blob/main/screenshot/Desktop-Success_Message.png" alt="Vista de Escritorio" style="width: 100%;"/></td>
+    <td style="width: 25%;"><img src="https://github.com/Lara-art/Newsletter/blob/main/screenshot/Mobile-Success_Message.png"  alt="Vista Móvil" style="width: 100%;"/></td>
   </tr>
 </table>
 
