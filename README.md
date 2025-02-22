@@ -15,79 +15,34 @@ Con total de <b>27 desafíos.</b>
 
 ## 📂 Desafíos Completados
 
-1. [Desafío 1 - QR code component](https://github.com/Lara-art/QR-code-component)
-2. [Desafío 2 - Blog preview card](https://github.com/Lara-art/Blog-preview-card)
-3. [Desafío 3 - Social links profile](https://github.com/Lara-art/Social-links-profile)
-4. [Desafío 4 - Recipe page](https://github.com/Lara-art/Recipe-page)
-5. [Desafío 5 - Product preview card component](https://github.com/Lara-art/Product-preview-card-component/)
-6. [Desafío 6 - Four card feature section solution](https://github.com/Lara-art/Four-Card-Feature-Section)
-7. [Desafío 7 - Testimonials grid section solution](https://github.com/Lara-art/Testimonials-grid-section)
-8. [Desafío 8 - Article preview component solution](https://github.com/Lara-art/Article-preview-component)
-9. [Desafío 9 - Newsletter solution](https://github.com/Lara-art/Newsletter)
+9 .  [Desafío 9 - Newsletter solution](https://github.com/Lara-art/Newsletter)<br>
+8 .  [Desafío 8 - Article preview component solution](https://github.com/Lara-art/Article-preview-component)<br>
+7 .  [Desafío 7 - Testimonials grid section solution](https://github.com/Lara-art/Testimonials-grid-section)<br>
+6 .  [Desafío 6 - Four card feature section solution](https://github.com/Lara-art/Four-Card-Feature-Section)<br>
+5 .  [Desafío 5 - Product preview card component](https://github.com/Lara-art/Product-preview-card-component/)<br>
+4 .  [Desafío 4 - Recipe page](https://github.com/Lara-art/Recipe-page)<br>
+3 .  [Desafío 3 - Social links profile](https://github.com/Lara-art/Social-links-profile)<br>
+2 .  [Desafío 2 - Blog preview card](https://github.com/Lara-art/Blog-preview-card)<br>
+1 .  [Desafío 1 - QR code component](https://github.com/Lara-art/QR-code-component)<br>
 
 ## 💻 Tecnologías
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 ## 📸 Capturas de Pantalla
 
-### [↗](https://github.com/Lara-art/QR-code-component) Desafío 1 - QR code component
-
+### [↗](https://github.com/Lara-art/Newsletter) Desafío 9 - Newsletter solution
 <table>
   <tr>
-    <td style="width: 75%;"><img src="https://github.com/Lara-art/QR-code-component/blob/main/QR-Screenshoot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
-    <td style="width: 25%;"><img src="https://github.com/Lara-art/QR-code-component/blob/main/QR-Screenshoot/mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
+    <td style="width: 75%;"><img src="https://github.com/Lara-art/Newsletter/blob/main/screenshot/Desktop.png" alt="Vista de Escritorio" style="width: 100%;"/></td>
+    <td style="width: 25%;"><img src="https://github.com/Lara-art/Newsletter/blob/main/screenshot/Mobile.png"  alt="Vista Móvil" style="width: 100%;"/></td>
   </tr>
-</table>
-
-### [↗](https://github.com/Lara-art/Blog-preview-card) Desafío 2 - Blog preview card
-
-<table>
   <tr>
-    <td style="width: 75%;"><img src="https://github.com/Lara-art/Blog-preview-card/blob/main/screenshot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
-    <td style="width: 25%;"><img src="https://github.com/Lara-art/Blog-preview-card/blob/main/screenshot/Mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
-  </tr>
-</table>
-
-### [↗](https://github.com/Lara-art/Social-links-profile) Desafío 3 - Social links profile
-<table>
-  <tr>
-    <td style="width: 75%;"><img src="https://github.com/Lara-art/Social-links-profile/blob/main/screenshot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
-    <td style="width: 25%;"><img src="https://github.com/Lara-art/Social-links-profile/blob/main/screenshot/Mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
-  </tr>
-</table>
-
-### [↗](https://github.com/Lara-art/Recipe-page) Desafío 4 - Recipe page
-<table>
-  <tr>
-    <td style="width: 75%;"><img src="https://github.com/Lara-art/Recipe-page/blob/main/screenshots/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
-    <td style="width: 25%;"><img src="https://github.com/Lara-art/Recipe-page/blob/main/screenshots/mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
-  </tr>
-</table>
-
-### [↗](https://github.com/Lara-art/Product-preview-card-component/) Desafío 5 - Product preview card component
-<table>
-  <tr>
-    <td style="width: 75%;"><img src="https://github.com/Lara-art/Product-preview-card-component/blob/main/screenshot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
-    <td style="width: 25%;"><img src="https://github.com/Lara-art/Product-preview-card-component/blob/main/screenshot/Mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
-  </tr>
-</table>
-
-### [↗](https://github.com/Lara-art/Four-Card-Feature-Section) Desafío 6 - Four card feature section
-<table>
-  <tr>
-    <td style="width: 75%;"><img src="https://github.com/Lara-art/Four-Card-Feature-Section/blob/main/screenshot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
-    <td style="width: 25%;"><img src="https://github.com/Lara-art/Four-Card-Feature-Section/blob/main/screenshot/Mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
-  </tr>
-</table>
-
-### [↗](https://github.com/Lara-art/Testimonials-grid-section) Desafío 7 - Testimonials grid section
-<table>
-  <tr>
-    <td style="width: 75%;"><img src="https://github.com/Lara-art/Testimonials-grid-section/blob/main/screenshot/Desktop.png" alt="Vista de Escritorio" style="width: 100%;"/></td>
-    <td style="width: 25%;"><img src="https://github.com/Lara-art/Testimonials-grid-section/blob/main/screenshot/Mobile.png"  alt="Vista Móvil" style="width: 100%;"/></td>
+    <td style="width: 75%;"><img src="https://github.com/Lara-art/Newsletter/blob/main/screenshot/Desktop-Success_Message.png" alt="Vista de Escritorio" style="width: 100%;"/></td>
+    <td style="width: 25%;"><img src="https://github.com/Lara-art/Newsletter/blob/main/screenshot/Mobile-Success_Message.png"  alt="Vista Móvil" style="width: 100%;"/></td>
   </tr>
 </table>
 
@@ -103,18 +58,62 @@ Con total de <b>27 desafíos.</b>
   </tr>
 </table>
 
-### [↗](https://github.com/Lara-art/Newsletter) Desafío 9 - Newsletter solution
+### [↗](https://github.com/Lara-art/Testimonials-grid-section) Desafío 7 - Testimonials grid section
 <table>
   <tr>
-    <td style="width: 75%;"><img src="https://github.com/Lara-art/Newsletter/blob/main/screenshot/Desktop.png" alt="Vista de Escritorio" style="width: 100%;"/></td>
-    <td style="width: 25%;"><img src="https://github.com/Lara-art/Newsletter/blob/main/screenshot/Mobile.png"  alt="Vista Móvil" style="width: 100%;"/></td>
-  </tr>
-  <tr>
-    <td style="width: 75%;"><img src="https://github.com/Lara-art/Newsletter/blob/main/screenshot/Desktop-Success_Message.png" alt="Vista de Escritorio" style="width: 100%;"/></td>
-    <td style="width: 25%;"><img src="https://github.com/Lara-art/Newsletter/blob/main/screenshot/Mobile-Success_Message.png"  alt="Vista Móvil" style="width: 100%;"/></td>
+    <td style="width: 75%;"><img src="https://github.com/Lara-art/Testimonials-grid-section/blob/main/screenshot/Desktop.png" alt="Vista de Escritorio" style="width: 100%;"/></td>
+    <td style="width: 25%;"><img src="https://github.com/Lara-art/Testimonials-grid-section/blob/main/screenshot/Mobile.png"  alt="Vista Móvil" style="width: 100%;"/></td>
   </tr>
 </table>
 
+### [↗](https://github.com/Lara-art/Four-Card-Feature-Section) Desafío 6 - Four card feature section
+<table>
+  <tr>
+    <td style="width: 75%;"><img src="https://github.com/Lara-art/Four-Card-Feature-Section/blob/main/screenshot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
+    <td style="width: 25%;"><img src="https://github.com/Lara-art/Four-Card-Feature-Section/blob/main/screenshot/Mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
+  </tr>
+</table>
+
+### [↗](https://github.com/Lara-art/Product-preview-card-component/) Desafío 5 - Product preview card component
+<table>
+  <tr>
+    <td style="width: 75%;"><img src="https://github.com/Lara-art/Product-preview-card-component/blob/main/screenshot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
+    <td style="width: 25%;"><img src="https://github.com/Lara-art/Product-preview-card-component/blob/main/screenshot/Mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
+  </tr>
+</table>
+
+### [↗](https://github.com/Lara-art/Recipe-page) Desafío 4 - Recipe page
+<table>
+  <tr>
+    <td style="width: 75%;"><img src="https://github.com/Lara-art/Recipe-page/blob/main/screenshots/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
+    <td style="width: 25%;"><img src="https://github.com/Lara-art/Recipe-page/blob/main/screenshots/mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
+  </tr>
+</table>
+
+### [↗](https://github.com/Lara-art/Social-links-profile) Desafío 3 - Social links profile
+<table>
+  <tr>
+    <td style="width: 75%;"><img src="https://github.com/Lara-art/Social-links-profile/blob/main/screenshot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
+    <td style="width: 25%;"><img src="https://github.com/Lara-art/Social-links-profile/blob/main/screenshot/Mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
+  </tr>
+</table>
+
+### [↗](https://github.com/Lara-art/Blog-preview-card) Desafío 2 - Blog preview card
+<table>
+  <tr>
+    <td style="width: 75%;"><img src="https://github.com/Lara-art/Blog-preview-card/blob/main/screenshot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
+    <td style="width: 25%;"><img src="https://github.com/Lara-art/Blog-preview-card/blob/main/screenshot/Mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
+  </tr>
+</table>
+
+### [↗](https://github.com/Lara-art/QR-code-component) Desafío 1 - QR code component
+
+<table>
+  <tr>
+    <td style="width: 75%;"><img src="https://github.com/Lara-art/QR-code-component/blob/main/QR-Screenshoot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
+    <td style="width: 25%;"><img src="https://github.com/Lara-art/QR-code-component/blob/main/QR-Screenshoot/mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
+  </tr>
+</table>
 
 ## ✨ Mis Redes
 
