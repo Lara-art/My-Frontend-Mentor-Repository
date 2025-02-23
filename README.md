@@ -11,7 +11,7 @@ Los desafíos de la página web se dividen en 7 bloques:
 <li>JavaScript frameworks and libraries</li>
 <li>Introduction to front-end testing</li>
 </ol>
-Con total de <b>27 desafíos.</b> 
+Con un total de <b>27 desafíos.</b> 
 
 ## 📂 Desafíos Completados
 
